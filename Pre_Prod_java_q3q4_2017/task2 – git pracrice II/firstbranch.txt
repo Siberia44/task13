@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+FIRST 123
+=======
+>>>>>>> parent of d0675c0... change "firstbranch.txt"
+=======
+FIRST 123
+>>>>>>> 42ddeef90f6f64755637bbdaa01499e6ccad1830
